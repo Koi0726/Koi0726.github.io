@@ -15,10 +15,10 @@ owner:
   #twitter: lancecai2002
   github: Koi0726
   #linkedin: XXXXXXXX
-  scholar: https://scholar.google.com/citations?user=E7PTB8cAAAAJ&hl=en
-  bilibili: 16482024
-  researchgate: https://www.researchgate.net/profile/Guangwei-Liu-7?ev=hdr_xprf
-  zhihu: https://www.zhihu.com/people/liu-guang-wei-52
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  bilibili: 594030035
+  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -79,9 +79,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: koiliu
+  shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-#Update in 2025/05/06 by Guangwei Liu.
+# Latest update in 2023/12/10 by Hanlin Cai.
