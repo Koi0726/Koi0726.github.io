@@ -12,15 +12,15 @@ owner:
   email: liuguangwesmu@gmail.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: 
+  #twitter: lancecai2002
   github: Koi0726
   #linkedin: XXXXXXXX
   scholar: https://scholar.google.com/citations?user=E7PTB8cAAAAJ&hl=en
   bilibili: 16482024
   researchgate: https://www.researchgate.net/profile/Guangwei-Liu-7?ev=hdr_xprf
   zhihu: https://www.zhihu.com/people/liu-guang-wei-52
-  # facebook: 
-  # instagram: 
+  # facebook: caihanlin2002
+  # instagram: lancecai2002
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -50,7 +50,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Tokyo
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown
