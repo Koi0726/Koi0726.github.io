@@ -6,7 +6,7 @@ title: Awards&Certificates
 
 > Update: 7th May 2025
 
-## Scholarships&Fundings
+## Scholarships & Fundings
 
 - Oct 2023 ~ Sep 2025: JSPS KAKENHI (22H00226, 25H00756)
 - Oct 2020 ~ Sep 2023: MEXT Scholarship (Japan Government)
@@ -15,7 +15,7 @@ title: Awards&Certificates
 - Sep 2009 ~ Sep 2012: First Prize Scholarship of semester (**Several times**)
 
 
-## Competitions&Awards
+## Competitions & Awards
 
 - Nov 2014: Third Prize in The Shanghai Postgraduate Academic Forum
 - May 2012: Second Prize (Band C) in The National English Contest for College Students
