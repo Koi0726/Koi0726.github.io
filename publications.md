@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Papers
 
-- [Multi-material dynamic topology optimization with viscoelasticity considering temperature dependency]() (in script)
+- [Multi-material Topology Optimization for Dynamic Thermo-Viscoelasticity]() (in script)
 - [Multi-material dynamic topology optimization of reaction force minimization problem with viscoelasticity]() (under review)
 - [Topology optimization considering uniformity of dynamic reaction forces](https://doi.org/10.1007/s00158-025-04139-z)
 - [TOPOLOGY OPTIMIZATION INCLUDING CONSTRAINTS FOR UNIFORM REACTION FORCES DISTRIBUTION](https://doi.org/10.2208/journalofjsce.24-15005)
