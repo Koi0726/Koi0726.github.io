@@ -14,9 +14,9 @@ I worked as a Marine Engineer in Naval Architecture and Offshore Vessel design a
 
 I am also a practitioner of new product development. I own a [NPDP](https://www.pdma.org/) certificate and acted as lecturer for strategy of new product development.
 
-I welcome inquiries and collaboration on my research. Please feel free to contact me via: liu.guangwei.work [at] gmail.com
+I welcome inquiries and collaboration on my research. Please feel free to contact me via: 
 
-- 
+- liu.guangwei.work [at] gmail.com
 
 [](**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**) 
 
