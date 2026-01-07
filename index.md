@@ -18,8 +18,6 @@ I welcome inquiries and collaboration on my research. Please feel free to contac
 
 - liu.guangwei.work [at] gmail.com
 
-[](**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**) 
-
 ---
 
 ## Research Interests
