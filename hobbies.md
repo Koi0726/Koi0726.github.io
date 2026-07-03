@@ -21,11 +21,11 @@ Even if this page will not be updated for a long time, and I may temporarily sto
 
 ## Body Fitness & Powerlifting
 
-<div class="third">
+<!-- <div class="third">
 <img src="/images/powerlift1.jpg">
 <img src="/images/powerlift2.jpg">
 <img src="/images/powerlift3.png">
-</div>
+</div> -->
 <br>For many people, powerlifting may be a very tiring thing. But in fact, for those who do mental work, it is a very good way to relieve stress. About ten years ago, I switched from poppin to powerlifting, and systematically learned the knowledge of NSCA-CPT. Now I keep the habit of powerlifting and other resistance training exercises, and can guide my friends around me to do simple training. If you also like this kind of sport, please contact me, let's make progress together.
 
 ## Music & Guitar
