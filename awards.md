@@ -12,8 +12,6 @@ title: Awards&Certificates
 - Oct 2020 ~ Sep 2023: MEXT Scholarship (Japan Government)
 - Sep 2014: Postgraduate Academic Talent Scholarship at SMU 
 - Sep 2012: President's Scholarship at SDJTU
-- Sep 2009 ~ Sep 2012: First Prize Scholarship of semester (**Multiple**)
-
 
 ## Competitions & Awards
 
