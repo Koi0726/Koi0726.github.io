@@ -7,20 +7,20 @@ url: https://koi0726.github.io/
 # Owner/author information
 owner:
   name: Guangwei Liu
-  avatar: avatar_lgw.jpg
+  avatar: /avatarlgw.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: liuguangwesmu@gmail.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
+  #twitter: 
   github: Koi0726
   #linkedin: XXXXXXXX
   scholar: https://scholar.google.com/citations?user=E7PTB8cAAAAJ&hl=en
   bilibili: 16482024
   researchgate: https://www.researchgate.net/profile/Guangwei-Liu-7?ev=hdr_xprf
-  zhihu: https://www.zhihu.com/people/liu-guang-wei-52
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  # zhihu: https://www.zhihu.com/people/liu-guang-wei-52
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -40,17 +40,17 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
+  - title: Awards&Certificates
     url: /awards/
   - title: Hobbies
     url: /hobbies/
   # - title: Startups
-    # url: /startups/
+  #   url: /startups/
   - title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Tokyo
 future: true
 highlighter: rouge
 # markdown: kramdown

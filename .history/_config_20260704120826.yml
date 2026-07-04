@@ -2,25 +2,25 @@ title: Guangwei Liu
 # tagline: Here is personal website of Guangwei Liu. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://liuguangwei.com
+url: https://koi0726.github.io/
 
 # Owner/author information
 owner:
   name: Guangwei Liu
-  avatar: photo_lgw.png
+  avatar: /avatarlgw.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: liuguangwesmu@gmail.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: liu.guangwei.work@gmail.com
+  #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
+  #twitter: 
   github: Koi0726
   #linkedin: XXXXXXXX
   scholar: https://scholar.google.com/citations?user=E7PTB8cAAAAJ&hl=en
   bilibili: 16482024
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/liu-guang-wei-52
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  researchgate: https://www.researchgate.net/profile/Guangwei-Liu-7?ev=hdr_xprf
+  # zhihu: https://www.zhihu.com/people/liu-guang-wei-52
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -40,17 +40,17 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
+  - title: Awards&Certificates
     url: /awards/
   - title: Hobbies
     url: /hobbies/
   # - title: Startups
-    # url: /startups/
+  #   url: /startups/
   - title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Tokyo
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -79,9 +79,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: koiliu
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+#Update in 2025/05/06 by Guangwei Liu.
