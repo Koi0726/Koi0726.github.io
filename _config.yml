@@ -48,6 +48,8 @@ links:
   #   url: /startups/
   - title: Blogs
     url: /blogs/
+  - title: Downloads
+    url: /downloads/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Tokyo

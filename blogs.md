@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs 中文博客
+## Blogs
 
 ### 2025
 
@@ -32,7 +32,7 @@ title: Blogs
 
 <br>
 
-## Leave a Message 欢迎留言
+## Leave a Message
 
 <br>
 
