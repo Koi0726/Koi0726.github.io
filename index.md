@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="lgw_photo_sideway1.png" class="floatpic">
+<img src="lgw_photo_sideway1_small.png" class="floatpic">
 
 Here is **Guangwei Liu (劉 光煒)**.<br>
 
